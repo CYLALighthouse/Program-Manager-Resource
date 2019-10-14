@@ -1,7 +1,6 @@
-- [Focus List Changes](flchanges.md
+- [Focus List Changes](flchanges.md)
 
-- FAQs
+- [FAQs](faq.md)
 
-- Resources
+- [Resources](otherRes.md)
 
-- Changelog
