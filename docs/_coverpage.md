@@ -1,6 +1,3 @@
-<!-- _coverpage.md -->
-
-![logo](/_images/logo-cy-white.png ':size=140x120')
 
 # Program Manager Resource
 
