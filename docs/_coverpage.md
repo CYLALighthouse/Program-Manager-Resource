@@ -1,4 +1,6 @@
 
+<!-- _coverpage.md -->
+
 # Program Manager Resource
 
 > Your guide to help you have a succeful year.
